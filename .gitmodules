@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fpop"]
+	path = fpop
+	url = https://github.com/cran/fpop
+	shallow = true
+	registered = true
+[submodule "fpopw"]
+	path = fpopw
+	url = https://github.com/cran/fpopw
+	shallow = true
+	registered = true
